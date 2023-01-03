@@ -14,17 +14,17 @@ const DefaultSideBar = [
 ];
 
 export default {
-  base: '/vmejs/',
-  title: 'vmejs',
+  base: '/ida-utils/',
+  title: 'ida-utils',
   lang: 'zh-CN',
   themeConfig: {
     logo: '/logo.png',
     lastUpdated: true,
     lastUpdatedText: '最后修改时间',
-    socialLinks: [{ icon: 'github', link: 'https://github.com/vmejs/vmejs' }],
+    socialLinks: [{ icon: 'github', link: 'https://github.com/ida-utils/ida-utils' }],
     // editLinks: true,
     // editLink: {
-    //   pattern: 'https://github.com/vmejs/vmejs/main/docs/:path',
+    //   pattern: 'https://github.com/ida-utils/ida-utils/main/docs/:path',
     //   text: '为此页提供修改建议',
     // },
     nav: [
